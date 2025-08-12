@@ -4,7 +4,7 @@
 **저작권:** SaeByeolMun. All rights reserved.
 
 PDFManager는 PDF 문서 변환 및 처리 기능을 제공하는 Windows용 데스크톱 애플리케이션입니다.  
-PySide6 기반으로 제작되었으며, PDF 이미지 변환과 텍스트 처리를 지원합니다.
+PySide6 기반으로 제작되었으며, PDF 이미지 병합과 분리, 이미지 변환과 같은 기능을 지원합니다.
 
 ---
 
