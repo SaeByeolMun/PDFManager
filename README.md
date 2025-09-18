@@ -23,20 +23,20 @@ PySide6 기반으로 제작되었으며, PDF 이미지 병합과 분리, 이미�
 ## 📚 주요 기능
 
 - **PDF → 이미지 변환** (JPG/PNG)  
-- **PDF 페이지 병합 및 분할**  
-- **PDF 메타데이터 읽기 및 수정**  
+- **PDF 페이지 병합**  
+- **PDF 페이지 분할**  
 - **한글 폰트(Nanum Gothic ExtraBold) 적용 UI**  
 
 ---
 
 ## 🛠 동봉된 구성 요소
 
-- `MyApp.exe` – 메인 실행 파일
+- `PDFManager.exe` – 메인 실행 파일
+- `app/` – 메인 실행 파일 위치
+- `data/` – 앱 리소스 (아이콘)
 - `licenses/` – 사용된 라이브러리 및 리소스의 라이선스 고지
-- `docs/` – 사용자 설명서 (PDF/HTML)
-- `data/` – 앱 리소스 (아이콘, 폰트, 설정 등)
 - `poppler_bin/` – PDF 처리 엔진 Poppler 바이너리
-- `platforms/`, `styles/` 등 – Qt 실행에 필요한 플러그인 및 라이브러리
+- `src/` – 원본 코드
 
 ---
 
