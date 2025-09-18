@@ -1,0 +1,14 @@
+This software uses the Qt framework (PySide6), licensed under the GNU Lesser General Public License (LGPL) version 3.
+
+Copyright (C) 2025 The Qt Company Ltd.
+
+You may obtain a copy of the LGPL license at:
+https://www.gnu.org/licenses/lgpl-3.0.html
+
+As required by the LGPL:
+- The Qt libraries included with this application are dynamically linked.
+- You may replace these libraries with your own compatible versions.
+- The source code for the Qt framework is available at:
+  https://code.qt.io/cgit/qt/qt5.git/
+
+This application does not modify the Qt source code.

@@ -1,0 +1,43 @@
+PDFManager
+Version 1.0.0
+Copyright (C) 2025 Your Company. All rights reserved.
+
+This application uses the following third-party libraries and resources.
+
+1) pdf2image
+   - License: MIT
+   - Copyright: (c) Edouard Belval
+   - Website: https://pypi.org/project/pdf2image/
+   - Notice: pdf2image wraps the Poppler utilities (pdftoppm / pdftocairo).
+     If Poppler binaries are distributed with this application, they are subject
+     to the GNU GPL (v2 or v3). See the Poppler license for details.
+
+2) PyPDF2
+   - License: BSD-3-Clause
+   - Copyright: (c) 2006-2025 Mathieu Fenniak and pypdf contributors
+   - Website: https://pypi.org/project/PyPDF2/
+   - Notice: Modern project name is "pypdf". Functionality and license are equivalent.
+
+3) Nanum Gothic ExtraBold (font)
+   - File: NanumGothic-ExtraBold.ttf
+   - License: SIL Open Font License, Version 1.1 (OFL-1.1)
+   - Copyright: (c) 2010 NHN Corporation. Designed by Sandoll Communications Inc.
+   - Website: https://fonts.google.com/specimen/Nanum+Gothic
+   - OFL Notice: The font may be used, embedded, and redistributed under OFL-1.1.
+     Reserved Font Names (if any) must not be used in derivative works.
+
+4) Qt (via PySide6)
+   - License: LGPL-3.0 (for the Qt libraries included)
+   - Copyright: (c) The Qt Company Ltd.
+   - Website: https://wiki.qt.io/Qt_for_Python
+   - Compliance: Qt libraries are dynamically linked and may be replaced by the user
+     with compatible versions. See Qt_Third_Party_Notice.txt for details.
+     
+5) Poppler
+   - License: GPL v2 or later
+   - Copyright: (C) 2005-2025 Poppler Developers
+   - Website: https://poppler.freedesktop.org/
+   - Notice: Poppler is a PDF rendering library. This application includes
+     the official Poppler binaries in the folder 'poppler_bin'.
+     The source code for Poppler is available at:
+     https://gitlab.freedesktop.org/poppler/poppler
